@@ -14,3 +14,6 @@
 [![Apoorv's github && 42 stats](https://github-readme-stats.vercel.app/api?username=akifbabapiro&show_icons=true&theme=radical)](https://github.com/akifbabapiro)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akifbabapiro&layout=compact&theme=radical)](https://github.com/akifbabapiro)
 
+<p align="center">
+  <img height="2" width="1000" src="https://github.com/farukdll/farukdll/blob/main/rainbow.gif">
+  </p>
