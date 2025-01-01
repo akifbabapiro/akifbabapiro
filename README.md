@@ -8,3 +8,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+---
+
+### 📈 My Github status:
+[![Apoorv's github && 42 stats](https://github-readme-stats.vercel.app/api?username=akifbabapiro&show_icons=true&theme=radical)](https://github.com/akifbabapiro)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akifbabapiro&layout=compact&theme=radical)](https://github.com/akifbabapiro)
+
